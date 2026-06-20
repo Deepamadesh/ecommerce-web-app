@@ -40,6 +40,7 @@ Open `frontend/index.html` directly in a browser, or serve with:
 ```bash
 npx serve frontend
 ```
+README
 cd C:\Users\deepa\Downloads\ecommerce
 git add .
 git commit -m "Final deployment"

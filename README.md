@@ -40,6 +40,10 @@ Open `frontend/index.html` directly in a browser, or serve with:
 ```bash
 npx serve frontend
 ```
+cd C:\Users\deepa\Downloads\ecommerce
+git add .
+git commit -m "Final deployment"
+git push
 
 ## API Endpoints
 

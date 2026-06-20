@@ -1,4 +1,4 @@
-const API = 'https://ecommerce-web-app-i0q1.onrender.com';
+const API = 'https://ecommerce-web-app-i0q1.onrender.com/api';
 let cart = JSON.parse(localStorage.getItem('cart') || '[]');
 let wishlist = JSON.parse(localStorage.getItem('wishlist') || '[]');
 let token = localStorage.getItem('token');
